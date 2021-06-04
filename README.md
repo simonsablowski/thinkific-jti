@@ -1,0 +1,2 @@
+# thinkific-jti
+ 
